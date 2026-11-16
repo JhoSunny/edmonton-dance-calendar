@@ -31,7 +31,9 @@ class CalendarTests(unittest.TestCase):
         self.assertEqual(ev.title, "Social Night")
         self.assertIn("Dance Hall", ev.location)
         data = render_ical([ev], datetime(2026, 11, 16, tzinfo=timezone.utc))
-        self.assertIn(b"DTSTART:20261121T030000Z", data)
+        # Alberta became permanently UTC-6 on November 1, 2026.
+        # 8 p.m. Alberta Time is 02:00 UTC the next day.
+        self.assertIn(b"DTSTART:20261121T020000Z", data)
         self.assertIn(b"BEGIN:VCALENDAR", data)
         self.assertTrue(all(len(line) <= 75 for line in data.split(b"\r\n")))
 
