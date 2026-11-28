@@ -9,23 +9,8 @@ X-WR-TIMEZONE:America/Edmonton
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:1d220e7c1a7081e824c7f429@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
-SUMMARY:Kizomba Vibes — Free Lesson & Social
-DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
- nCover/info: Free lesson and social\nEvent: https://dondebailamos.com/en/e
- dmonton/events/grok-edmonton-rhythms-kizomba-vibes-2026%3A20261127-1930\nO
- rganizer: https://www.eventbrite.ca/e/kizomba-vibes-free-lesson-social-tic
- kets-1323762833269
-URL:https://dondebailamos.com/en/edmonton/events/grok-edmonton-rhythms-kizo
- mba-vibes-2026%3A20261127-1930
-LOCATION:Rhythms Studio · 10143 82 Avenue\, Edmonton\, AB T6E 1Z5
-DTSTART:20261128T013000Z
-DTEND:20261128T030000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:0ac599053756ab3d94d5dc2a@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -40,7 +25,7 @@ DTEND:20261129T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e13ce5f8328eef86f22ec1bf@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Feria de Cali y Simulacro de Fin de Año
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $35 ticket. Free ticket delivery when buying three or more ti
@@ -54,7 +39,7 @@ DTSTART:20261129T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:a563f5a708f660da3ed8d688@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Winter White: Naughty or Nice — GEM Dance Fundraiser
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $20 advance\; $25 on November 28. Latin hits and reggaeton wi
@@ -70,7 +55,7 @@ DTSTART:20261129T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:847ccc66618612be58fd62d0@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -85,7 +70,7 @@ DTEND:20261130T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:16251af43aff89d3125e2330@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Bachata Tuesdays at The Public Exchange
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $10 general admission\; $5 students. Includes beginner-friend
@@ -103,7 +88,7 @@ DTEND:20261202T055900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c23c10eff3de4594fb11edbb@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -118,7 +103,7 @@ DTEND:20261203T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1095ab37e13fd9585d072225@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Bachata Vibes — Free Dancing Lesson & Social
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: Free beginner Bachata lesson 7:30–8:15 PM\, followed by soc
@@ -134,7 +119,7 @@ DTEND:20261205T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:3e7537da235c56f66c6758c9@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -149,7 +134,7 @@ DTEND:20261206T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1250aca19ad9e6c924b621ad@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Salsachata – Dec 5
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: Price not listed\nEvent: https://dondebailamos.com/en/edmonto
@@ -164,7 +149,7 @@ DTEND:20261206T055900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ee19e6ba158c28c8603989e7@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -179,7 +164,7 @@ DTEND:20261207T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:abadf21fd3547275ee8900ed@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -194,7 +179,7 @@ DTEND:20261208T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:6f464d3e69307e4fd8e3a86d@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Bachata Tuesdays at The Public Exchange
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $10 general admission\; $5 students. Includes beginner-friend
@@ -212,7 +197,7 @@ DTEND:20261209T055900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c71a6ceba49d5b5200b3137c@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -227,7 +212,7 @@ DTEND:20261210T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc925a1e925df4f21166816@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:B. Zouk Vibes — Free Dance Lesson & Social
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: Free beginner Brazilian Zouk lesson 7:30–8:15 PM\, followed
@@ -243,7 +228,7 @@ DTEND:20261212T030000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:35a09e863bc3b1ae67ddbff5@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -258,7 +243,7 @@ DTEND:20261213T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:08572e52a442d4f2c642c840@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Feliz Navi-Dance — Christmas Pajama Party
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: See event page\nEvent: https://dondebailamos.com/en/edmonton/
@@ -272,7 +257,7 @@ DTEND:20261213T070000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:b2c941dc9d3fca7494775067@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -287,7 +272,7 @@ DTEND:20261214T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:91224cfd80c9956016a4213d@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -302,7 +287,7 @@ DTEND:20261215T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:3cfc0aa9748d61af677bdb69@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Bachata Tuesdays at The Public Exchange
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $10 general admission\; $5 students. Includes beginner-friend
@@ -320,7 +305,7 @@ DTEND:20261216T055900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8f2d30fbe0b65ac81726f3f6@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -335,7 +320,7 @@ DTEND:20261217T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:9229c64fd5376dca4b49f6ea@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -350,7 +335,7 @@ DTEND:20261220T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ab656138cfd3c1f82107dcbc@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -365,7 +350,7 @@ DTEND:20261221T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e31f01d46baa866c1a43aa9a@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -380,7 +365,7 @@ DTEND:20261222T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:7df05f3abb6dc7a0a6883e8a@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Bachata Tuesdays at The Public Exchange
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $10 general admission\; $5 students. Includes beginner-friend
@@ -398,7 +383,7 @@ DTEND:20261223T055900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:0d36ad54bcdb6c94e44e5c78@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -413,7 +398,7 @@ DTEND:20261224T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:83e9fa32623595fb7f765c43@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -428,7 +413,7 @@ DTEND:20261227T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:0bddb2c2bce942a14c7620ad@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -443,7 +428,7 @@ DTEND:20261228T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c3f084f51c2ec81b6339827c@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -458,7 +443,7 @@ DTEND:20261229T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:95893de82a8b5805ca7f1592@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Bachata Tuesdays at The Public Exchange
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $10 general admission\; $5 students. Includes beginner-friend
@@ -476,7 +461,7 @@ DTEND:20261230T055900Z
 END:VEVENT
 BEGIN:VEVENT
 UID:19d7449204c9f665b1a54c54@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -491,7 +476,7 @@ DTEND:20261231T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5253f877dac0c3ccb0acb16c@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Midnight Magic — New Year’s Eve with Orquesta Son Romero
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $55 online or $65 at the door. Reserved tables including tick
@@ -506,7 +491,7 @@ DTEND:20270101T070000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:9176eb03e05698b95e829e91@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -521,7 +506,7 @@ DTEND:20270103T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:85fd491e4809c1c173e0083b@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -536,7 +521,7 @@ DTEND:20270104T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:3ca6cb2890db693e53475c0c@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -551,7 +536,7 @@ DTEND:20270105T023000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d0abe2e1943fc222402395ab@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
@@ -565,8 +550,23 @@ DTSTART:20270106T180000Z
 DTEND:20270107T023000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:c6eb7bce568f51d44a015e5e@unofficial-edmonton-dance-calendar
+DTSTAMP:20261128T085544Z
+SUMMARY:Etown Salsa – Salsa Lessons and Latin Dance Series
+DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
+ nCover/info: $15\nEvent: https://dondebailamos.com/en/edmonton/events/sv-e
+ dmonton-60f04d87ef537501-2027-01-09%3Aoccurrence\nOrganizer: https://etown
+ salsa.com/classes/
+URL:https://dondebailamos.com/en/edmonton/events/sv-edmonton-60f04d87ef5375
+ 01-2027-01-09%3Aoccurrence
+LOCATION:ETOWN SALSA Dance Studios · 10012-79 Ave NW\, Edmonton\, AB T6E 1
+ R5\, Canada\, Edmonton
+DTSTART:20270109T180000Z
+DTEND:20270110T023000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:d511e79c6171c9b4f6215229@unofficial-edmonton-dance-calendar
-DTSTAMP:20261127T215852Z
+DTSTAMP:20261128T085544Z
 SUMMARY:Bachata Tuesdays at The Public Exchange
 DESCRIPTION:Unofficial feed. Confirm event information with the organizer.\
  nCover/info: CAD10\; CAD5 for students. Includes 8–9:30 PM bachata lesso
